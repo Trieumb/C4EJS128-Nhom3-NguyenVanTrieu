@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1{
+    color: white;
+    background-color: blueviolet;
+    padding: 25px;
+    padding-left: 10%;
+}
+h2{
+    margin: 15px 10%;
+}
+
+h3{
+    padding: 10px;
+    padding-left: 0px;
+    color: red;
+}
+.card{
+  width: 30vw;
+  margin-left: 10%;
+  padding: 5px;  
+  border: 3px rgb(224, 224, 224) solid;
+  border-radius: 5px;
+  
+}
+.card img{
+    width: 30vw;
+}
+.card p{
+    opacity: 0.5;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-color:green;
+    border: 2px blueviolet solid;
+    border-radius: 5px;  
+}
+em{
+    background-color: aqua;
+}
