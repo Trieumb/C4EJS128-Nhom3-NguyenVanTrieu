@@ -3,7 +3,7 @@ const Employee1= {
 
     firstName : "Nguyen",
     latsName: "Minh",
-    age: "26",
+    age: 26,
     role: "coder",
     salary: "15000000",
     active: "true",
@@ -12,11 +12,12 @@ const Employee1= {
     phone: "0912 456 789"
 
 };
+alert(Employee1.firstName +" "+ Employee1.latsName);
 const Employee2= {
 
     firstName : "Phạm",
     latsName: "Hùng",
-    age: "24",
+    age: 24,
     role: "coder",
     salary: "18000000",
     active: "true",
@@ -29,7 +30,7 @@ const Employee3= {
 
     firstName : "Nguyen",
     latsName: "Hưng",
-    age: "26",
+    age: 26,
     role: "leader",
     salary: "25000000",
     active: "true",
